@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**1colete/1colete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####  I'm a Data Analyst working in São Paulo, Brazil.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Studying Data Science;
+- :briefcase: Mostly publishing personal projects
+
+##### BIO
+
+- 🏢 I'm currently working at **Aon**
+- ⚙️ I use daily: `Python`, `SQL`, `Power Bi`, `Tableau`
+- 🌱 Learning all about **Data Science and Machine Learning**
+- 💬 Ping me about **Data Analysis**, **Data Science**,  **Python**, **Robot Process Automation**, **Maker Stuff**
+- 📫 Reach me: [All my social media](https://linktr.ee/1colete)
+- ⚡️ Fun fact: I'm a coffee nerd, Cyclist and passionate about everyday design
+<!--- - 🌍 I'm mostly active within the **Laravel Community**
+- 💅 Designed: -->
